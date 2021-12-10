@@ -1,4 +1,3 @@
-# Data-Science-Projects
 This repository contains projects like Indian Air and Water quality analysis done using python data science techniques and visualisations.
 
 ## [Indian Air Quality Analysis](https://github.com/Abhishek-Aditya-bs/Data-Science-Projects/tree/main/Indian-Air-Quality-Analysis)
